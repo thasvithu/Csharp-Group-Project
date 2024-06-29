@@ -1,7 +1,9 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VLE.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="VLE_DBConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename="G:\Semesters\Second Year\Second Year First Semester\TICT2134 Advanced Computer Programming\Practical\Group Project Final\VLE\VLE\VLE_DB.mdf";Integrated Security=True</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>

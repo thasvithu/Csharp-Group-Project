@@ -1,0 +1,17 @@
+G:\Semesters\Second Year\Second Year First Semester\TICT2134 Advanced Computer Programming\Practical\Group Project Final\VLE\VLE\bin\Debug\VLE_DB.mdf
+G:\Semesters\Second Year\Second Year First Semester\TICT2134 Advanced Computer Programming\Practical\Group Project Final\VLE\VLE\bin\Debug\VLE_DB_log.ldf
+G:\Semesters\Second Year\Second Year First Semester\TICT2134 Advanced Computer Programming\Practical\Group Project Final\VLE\VLE\bin\Debug\VLE.exe.config
+G:\Semesters\Second Year\Second Year First Semester\TICT2134 Advanced Computer Programming\Practical\Group Project Final\VLE\VLE\bin\Debug\VLE.exe
+G:\Semesters\Second Year\Second Year First Semester\TICT2134 Advanced Computer Programming\Practical\Group Project Final\VLE\VLE\bin\Debug\VLE.pdb
+G:\Semesters\Second Year\Second Year First Semester\TICT2134 Advanced Computer Programming\Practical\Group Project Final\VLE\VLE\obj\Debug\VLE.csproj.AssemblyReference.cache
+G:\Semesters\Second Year\Second Year First Semester\TICT2134 Advanced Computer Programming\Practical\Group Project Final\VLE\VLE\obj\Debug\VLE.ChnagePassword.resources
+G:\Semesters\Second Year\Second Year First Semester\TICT2134 Advanced Computer Programming\Practical\Group Project Final\VLE\VLE\obj\Debug\VLE.Home.resources
+G:\Semesters\Second Year\Second Year First Semester\TICT2134 Advanced Computer Programming\Practical\Group Project Final\VLE\VLE\obj\Debug\VLE.ICT.resources
+G:\Semesters\Second Year\Second Year First Semester\TICT2134 Advanced Computer Programming\Practical\Group Project Final\VLE\VLE\obj\Debug\VLE.LoginForm.resources
+G:\Semesters\Second Year\Second Year First Semester\TICT2134 Advanced Computer Programming\Practical\Group Project Final\VLE\VLE\obj\Debug\VLE.Profile.resources
+G:\Semesters\Second Year\Second Year First Semester\TICT2134 Advanced Computer Programming\Practical\Group Project Final\VLE\VLE\obj\Debug\VLE.Properties.Resources.resources
+G:\Semesters\Second Year\Second Year First Semester\TICT2134 Advanced Computer Programming\Practical\Group Project Final\VLE\VLE\obj\Debug\VLE.SignUp.resources
+G:\Semesters\Second Year\Second Year First Semester\TICT2134 Advanced Computer Programming\Practical\Group Project Final\VLE\VLE\obj\Debug\VLE.csproj.GenerateResource.cache
+G:\Semesters\Second Year\Second Year First Semester\TICT2134 Advanced Computer Programming\Practical\Group Project Final\VLE\VLE\obj\Debug\VLE.csproj.CoreCompileInputs.cache
+G:\Semesters\Second Year\Second Year First Semester\TICT2134 Advanced Computer Programming\Practical\Group Project Final\VLE\VLE\obj\Debug\VLE.exe
+G:\Semesters\Second Year\Second Year First Semester\TICT2134 Advanced Computer Programming\Practical\Group Project Final\VLE\VLE\obj\Debug\VLE.pdb

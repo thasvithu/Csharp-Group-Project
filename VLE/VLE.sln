@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VLE", "VLE\VLE.csproj", "{AB30320E-98EB-4DAA-AD8B-FE798215369E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB30320E-98EB-4DAA-AD8B-FE798215369E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB30320E-98EB-4DAA-AD8B-FE798215369E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB30320E-98EB-4DAA-AD8B-FE798215369E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB30320E-98EB-4DAA-AD8B-FE798215369E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AE6C6F1-E59D-45FB-98D6-657F3C998AC0}
+	EndGlobalSection
+EndGlobal
